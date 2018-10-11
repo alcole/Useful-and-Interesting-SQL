@@ -1,2 +1,2 @@
 # Useful-and-Interesting-SQL
-Collection of useful or interesting SQL
+Collection of useful or interesting SQL (SQL Server)
